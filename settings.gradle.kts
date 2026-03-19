@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ChoronoPoets"
+rootProject.name = "Tajik Poetry AI"
 include(":app")
  
